@@ -1,6 +1,8 @@
 Bankist - A Minimalist Banking Application
 This project is a client-side simulation of a modern banking application, built to demonstrate advanced JavaScript concepts, DOM manipulation, and data management. It provides a functional interface for users to manage their fictional accounts.
 
+look of the project : https://github.com/ruchita0131/BANKIST/blob/93d8cfb7b7183cfa5899f736833e215a5fb3c2fa/bankist_image.png
+
 Note: This is a front-end demonstration and does not connect to a real banking back-end. All user data is for demonstration purposes only.
 
 1.Features:
